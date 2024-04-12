@@ -11,5 +11,6 @@ Just Replace The app.css from pma-voice/ui/css
 * + Now The Backround colors are ** linear-gradient ** so you can combaine colors also the font have been updated to cleaner and cooler xD 
 
 # Showcase
-![PMA-Voice-Remake-V2](https://github.com/EppuScripts/pma-voice-remake-v2/assets/144498221/13dc1ccf-08a8-4e17-9eed-b8ad45db68d1)
+![PMA-Voice-Remake-V2](https://github.com/EppuScripts/pma-voice-remake-v2/assets/144498221/7a974a03-1838-4ca8-88dd-62a60f81d52a)
+
 
