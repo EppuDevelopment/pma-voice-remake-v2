@@ -1,0 +1,23 @@
+.voiceInfo {
+    font: bold 14px 'Roboto', sans-serif; /* Increased font size and made it bolder */
+    position: fixed;
+    text-align: left;
+    top: 4px;
+    right: 8px;
+    padding: 6px; /* Increased padding for better readability */
+    color: #dddddd; /* Changed text color for better contrast */
+    background: linear-gradient(45deg, #1a1a1a, #030303); /* Darkened background */
+    border-radius: 25px; /* Slightly increased border radius */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3), 0 12px 24px rgba(0, 0, 0, 0.3), 0 18px 36px rgba(0, 0, 0, 0.3); /* Enhanced shadow effect */
+}
+
+.talking {
+    color: #ffffff; /* Text color */
+    text-shadow: 0 0 10px #ffffff, 0 0 20px #ffffff, 0 0 30px #ffffff, 0 0 40px #ffffff, 0 0 50px #ffffff, 0 0 60px #ffffff, 0 0 70px #ffffff, 0 0 80px #ffffff; /* Glow effect */
+}
+
+
+
+p {
+    margin: 0;
+}
